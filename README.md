@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Thareesha
 
 🎓 Computer Science Undergraduate  
-💻 Full Stack Developer | Microservices Enthusiast  
+💻 BackEnd Developer | Microservices Enthusiast  
 🚀 Passionate about building scalable systems & modern web apps  
 
 ---
@@ -28,7 +28,6 @@
 
 ### 💻 Frontend
 - React.js
-- Vue.js
 - React Native (Expo)
 - HTML, CSS, JavaScript
 
@@ -91,11 +90,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-![Thareesha's GitHub stats](https://github-readme-stats.vercel.app/api?username=Thareesha98&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Thareesha98&layout=compact&theme=tokyonight)
 
 ---
 
